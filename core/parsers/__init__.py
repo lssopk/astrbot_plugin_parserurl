@@ -14,6 +14,7 @@ from .xhs import XHSParser
 from .youtube import YouTubeParser
 from .zhihu import ZhihuParser
 from .pixiv import PixivParser
+from .missav import MissAVParser
 
 __all__ = [
     "BaseParser",
